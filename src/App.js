@@ -14,7 +14,6 @@ function App() {
     <div className="App">
       <h1>Soma{sum(3, 2)}</h1>
       <img src={url} alt="Minha Imagem"></img>
-      <Frase />
       <HelloWorld />
       <Frase />
     </div>
